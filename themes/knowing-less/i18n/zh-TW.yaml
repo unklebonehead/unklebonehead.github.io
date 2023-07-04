@@ -1,0 +1,44 @@
+archive:
+  other: "歸檔"
+
+tags:
+  other: "標簽"
+
+categories:
+  other: "分類"
+
+prevPage:
+  other: "上一頁"
+
+nextPage:
+  other: "下一頁"
+
+prevEpisode:
+  other: "上一期"
+
+nextEpisode:
+  other: "下一期"
+
+archiveCounter:
+  one: "共計 {{ .Count }} 期節目"
+  other: "共計 {{ .Count }} 期節目"
+
+tagCounter:
+  one: "共計 {{ .Count }} 個標籤"
+  other: "共計 {{ .Count }} 個標籤"
+
+zeroTagCounter:
+  other: "暫無標籤"
+
+categoryCounter:
+  one: "共計 {{ .Count }} 個分類"
+  other: "共計 {{ .Count }} 個分類"
+
+zeroCategoryCounter:
+  other: "暫無分類"
+
+weChatOfficialAccount:
+  other: "公衆號"
+
+scanQRCodeUsingWeChat:
+  other: "微信掃描二維碼"

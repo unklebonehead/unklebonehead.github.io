@@ -1,0 +1,55 @@
+<div class="sidebar">
+  <a class="podcast-logo" href="{{ "/" | relLangURL }}">
+    <img src="{{ .Site.Params.podcastImage }}" alt="{{ .Site.Title }}" title="{{ .Site.Title }}" />
+  </a>
+  <h1 class="podcast-title">{{ .Site.Title }}</h1>
+  {{- if .Site.Params.description -}}
+    <h2 class="podcast-description">
+    {{ .Site.Params.description }}
+    </h2>
+  {{- end -}}
+  {{ if .Site.Menus.main }}
+    <div class="menu-link-container">
+      {{ range $index, $element := .Site.Menus.main -}}
+        {{- if ne $index 0 -}}
+          <span>/</span>
+        {{- end -}}
+        <a href="{{ .URL | safeURL }}">{{- $element.Name -}}</a>
+      {{- end }}
+    </div>
+  {{ end }}
+  <div class="podcast-link-container">
+    <div class="podcast-link">
+      {{ if .Site.Params.podcastRSS }}
+        <a href="{{ .Site.Params.podcastRSS }}"><i class="link-icon fas fa-rss"></i>RSS</a>
+      {{ else }}
+        <a href="{{ .Site.RSSLink }}"><i class="link-icon fas fa-rss"></i>RSS</a>
+      {{ end }}
+    </div>
+    {{- range .Site.Params.links -}}
+      {{- if .link -}}
+        <div class="podcast-link">
+          {{- if .fontAwesomeIcon -}}
+          <a href="{{ .link }}"><i class="link-icon {{ .fontAwesomeIcon }}"></i>{{ .title }}</a>
+          {{- else if .svg -}}
+          <a href="{{ .link }}"><img class="link-icon" src="{{ .svg }}" width="16" height="16" alt="{{ .title }}" />{{.title }}</a>
+          {{- end -}}
+        </div>
+      {{- end -}}
+    {{- end -}}
+    {{ with .Site.Params.wechatQRCode }}
+      <div class="wechat-qrcode-container">
+        <div class="podcast-link wechat-qrcode-link">
+          <a>
+            <i class="link-icon fab fa-weixin"></i>
+            {{ T "weChatOfficialAccount" }}
+          </a>
+        </div>
+        <div class="wechat-qrcode">
+          <img src="{{ . }}" />
+          <span>{{ T "scanQRCodeUsingWeChat" }}</span>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>

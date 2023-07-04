@@ -1,0 +1,186 @@
+baseURL = "https://example.com"
+languageCode = "en"
+DefaultContentLanguage = "en" # en / zh-cn / zh-tw / ... (This field determines which i18n file to use)
+title = "Knowing Less"
+theme = "knowing-less"
+paginate = 5              # How many episodes per page
+enableEmoji = true        # Enable Emoji emoticons support for page content
+summaryLength = 200       # The length (number of words) of shownote text displayed on the home page
+hasCJKLanguage = true
+copyright = ""            # Default value is author.name
+
+# Essential
+[author]
+  name = "LGiki"
+  email = ""
+
+# Essential
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# Config menus displayed in the sidebar
+[[menu.main]]
+  name = "Episodes"
+  weight = 20
+  identifier = "episodes"
+  url = "/episode/"
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "Categories"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"
+
+[params]
+  # Used to check if the theme is configured correctly
+  version = "v1.1.0"
+
+  # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
+  debug = false
+
+  # Podcast image URL
+  podcastImage = "https://picsum.photos/500/500"
+
+  # If you leave it blank, will generate RSS Feed automatically by episodes you posted, or you can specify your podcast RSS feed URL
+  podcastRSS = ""
+
+  # Site creation time
+  since = "2021"
+
+  # Description will displayed in the sidebar
+  description = "A simple HUGO theme for podcasts"
+  keywords = ["Hugo", "theme", "podcast"]
+
+  # Post types that will displayed on the home page
+  mainSections = ["episode", "post"]
+
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+
+  # Syntax highlighting by highlight.js
+  # When set highlightInClient to false, please uncomment the [markup.highlight] section below
+  highlightInClient = true
+
+  # Enable KaTeX
+  katex = true
+
+  # Baidu Verification
+  baiduVerification = ""
+  # Google Verification
+  googleVerification = ""
+
+  # Link custom CSS and JS assets (relative to /static/css and /static/js respectively)
+  customCSS = []
+  customJS = []
+
+  # Paginate of archives, tags and categories
+  archivePaginate = 20
+  
+  # WeChat Official Account QR Code Image URL
+  weChatQRCode = ""
+
+  # Podcast category
+  [[params.podcastCategory]]
+    title = "Society & Culture"
+    subTitle = "Personal Journals"
+  [[params.podcastCategory]]
+    title = "Society & Culture"
+    subTitle = "Relationships"
+  [[params.podcastCategory]]
+    title = "Society & Culture"
+    subTitle = "Documentary"
+
+  # Podcast related links displayed in the sidebar
+  # If leave link field blank, the link will not displayed in the sidebar
+  # Specify icon by fontAwesome or svg field:
+  # If using fontAwesome simply fill the fontAwesome field with class name of icon
+  # If using svg, you need put your svg icon to /static/icons/, then specify the svg field
+  [[params.links]]
+    title = "Apple Podcast"
+    fontAwesomeIcon = "fas fa-podcast"
+    link = ""
+    svg = ""
+  [[params.links]]
+    title = "Google Podcast"
+    fontAwesomeIcon = "fab fa-google"
+    link = ""
+    svg = ""
+  [[params.links]]
+    title = "Pocket Casts"
+    fontAwesomeIcon = ""
+    link = ""
+    svg = "/icons/pocketcasts.svg"
+  [[params.links]]
+    title = "Overcast"
+    fontAwesomeIcon = ""
+    link = ""
+    svg = "/icons/overcast.svg"
+  [[params.links]]
+    title = "Castro"
+    fontAwesomeIcon = ""
+    link = ""
+    svg = "/icons/castro.svg"
+  [[params.links]]
+    title = "小宇宙"
+    fontAwesomeIcon = ""
+    link = ""
+    svg = "/icons/cosmos.svg"
+  [[params.links]]
+    title = "喜马拉雅"
+    fontAwesomeIcon = ""
+    link = ""
+    svg = "/icons/ximalaya.svg"
+  [[params.links]]
+    title = "网易云"
+    fontAwesomeIcon = ""
+    link = ""
+    svg = "/icons/netease.svg"
+  [[params.links]]
+    title = "汽水儿"
+    fontAwesomeIcon = "fas fa-headphones-alt"
+    link = ""
+    svg = ""
+  [[params.links]]
+    title = "皮艇"
+    fontAwesomeIcon = "fas fa-headphones-alt"
+    link = ""
+    svg = ""
+  [[params.links]]
+    title = "微博"
+    fontAwesomeIcon = "fab fa-weibo"
+    link = ""
+    svg = ""
+  [[params.links]]
+    title = "Email"
+    fontAwesomeIcon = "fas fa-envelope"
+    link = ""
+    svg = ""
+
+[markup]
+  # Highlight code using HUGO built-in Chroma
+  # [markup.highlight]
+  #   anchorLineNos = true
+  #   codeFences = true
+  #   guessSyntax = true
+  #   hl_Lines = ""
+  #   lineAnchors = ""
+  #   lineNoStart = 1
+  #   lineNos = true
+  #   lineNumbersInTable = false
+  #   noClasses = true
+  #   style = "dracula"
+  #   tabWidth = 4
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

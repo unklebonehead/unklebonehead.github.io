@@ -1,0 +1,12 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+
+{{ define "content" }}
+<div class="main-content-container">
+  <div class="episode-container">
+    <h1 class="episode-title">{{ .Title }}</h1>
+    <div class="episode-content markdown-content">
+      {{ .Content }}
+    </div>
+  </div>
+</div>
+{{ end }}

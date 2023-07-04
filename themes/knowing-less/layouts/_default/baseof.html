@@ -1,0 +1,34 @@
+{{ if not .Site.Params.version -}}
+  {{ errorf "\n\nYou haven't copied the example config.toml to the root folder of your Hugo site. See https://github.com/LGiki/hugo-theme-knowing-less#installation\n\n你没有把样例config.toml复制到Hugo站点根目录下，参考https://github.com/LGiki/hugo-theme-knowing-less#installation\n" -}}
+{{ end -}}
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>
+    {{- block "title" . -}}
+      {{ if .IsPage }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}
+    {{- end -}}
+  </title>
+  {{ partial "head.html" . }}
+</head>
+
+<body ontouchstart>
+  <div class="main-container">
+    <aside class="sidebar-container">
+      {{ partial "sidebar.html" . }}
+    </aside>
+    {{ block "content" . }}{{ end }}
+  </div>
+
+  <div class="float-button-container">
+    {{ partial "float-button.html" . }}
+  </div>
+
+  <footer>
+    {{ partial "footer.html" . }}
+  </footer>
+  {{ partial "scripts.html" . }}
+</body>
+</html>

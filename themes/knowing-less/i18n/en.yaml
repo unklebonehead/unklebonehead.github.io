@@ -1,0 +1,44 @@
+archive:
+  other: "Archive"
+
+tags:
+  other: "Tags"
+
+categories:
+  other: "Categories"
+
+prevPage:
+  other: "Prev"
+
+nextPage:
+  other: "Next"
+
+prevEpisode:
+  other: "Prev"
+
+nextEpisode:
+  other: "Next"
+
+archiveCounter:
+  one: "{{ .Count }} Episode In Total"
+  other: "{{ .Count }} Episodes In Total"
+
+tagCounter:
+  one: "{{ .Count }} Tag In Total"
+  other: "{{ .Count }} Tags In Total"
+
+zeroTagCounter:
+  other: "No tags"
+
+categoryCounter:
+  one: "{{ .Count }} Category In Total"
+  other: "{{ .Count }} Categories In Total"
+
+zeroCategoryCounter:
+  other: "No categories"
+
+weChatOfficialAccount:
+  other: "WeChat"
+
+scanQRCodeUsingWeChat:
+  other: "Scan QR code using WeChat"

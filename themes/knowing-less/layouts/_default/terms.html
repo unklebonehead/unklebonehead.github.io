@@ -1,0 +1,58 @@
+{{- define "title" }}{{ T .Data.Plural }} · {{ .Site.Title }}{{ end -}}
+
+{{- define "content" -}}
+<div class="main-content-container">
+  <div class="episode-container">
+    {{ $name := .Data.Plural -}}
+    {{ $terms := .Data.Terms.ByCount -}}
+    {{ $length := len $terms -}}
+    {{ if eq $name "categories" -}}
+    <div class="episode-title">
+      {{ if eq $length 0 -}}
+      {{ T "zeroCategoryCounter" }}
+      {{- else -}}
+      {{ T "categoryCounter" $length }}
+      {{- end }}
+    </div>
+    <div class="terms-tag-container">
+      {{ range $key, $value := $terms -}}
+      <div class="episode-tag" title="{{ $value.Term }}">
+        <div class="tag-icon hashtag-icon">
+          <i class="fas fa-hashtag"></i>
+        </div>
+        <span>
+          <a
+            href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}{{ if $.Site.Params.uglyURLs }}.html{{else}}/{{ end }}">
+            {{ $value.Term }}
+          </a>
+        </span>
+      </div>
+      {{ end -}}
+    </div>
+    {{- else if eq $name "tags" -}}
+    <div class="episode-title">
+      {{ if eq $length 0 -}}
+      {{ T "zeroTagCounter" }}
+      {{- else -}}
+      {{ T "tagCounter" $length }}
+      {{- end }}
+    </div>
+    <div class="terms-tag-container">
+      {{ range $key, $value := $terms }}
+      <div class="episode-tag" title="{{ $value.Term }}">
+        <div class="tag-icon hashtag-icon">
+          <i class="fas fa-hashtag"></i>
+        </div>
+        <span>
+          <a
+            href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}{{ if $.Site.Params.uglyURLs }}.html{{else}}/{{ end }}">
+            {{ $value.Term }}
+          </a>
+        </span>
+      </div>
+      {{ end }}
+    </div>
+    {{- end }}
+  </div>
+</div>
+{{- end }}

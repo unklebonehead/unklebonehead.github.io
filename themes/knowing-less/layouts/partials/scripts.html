@@ -1,0 +1,47 @@
+{{ $main := resources.Get "js/main.js" }}
+{{ $js := $main | minify | fingerprint }}
+<script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
+
+<!-- Shikwasa -->
+<script src="https://cdn.jsdelivr.net/npm/shikwasa@2.1.2/dist/shikwasa.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/shikwasa@2.1.2/dist/shikwasa.chapter.min.js"></script>
+
+<!-- Highlight.js -->
+{{- if .Site.Params.highlightInClient -}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js"></script>
+{{- end -}}
+
+<!-- KaTeX -->
+{{- if and (or .Params.katex (and .Site.Params.katex (ne .Params.katex false))) (or .IsPage .IsHome) -}}
+<script src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  renderMathInElement(document.body, {
+    delimiters: [
+      {left: '$$', right: '$$', display: true},
+      {left: '$', right: '$', display: false},
+      {left: '\\(', right: '\\)', display: false},
+      {left: '\\[', right: '\\]', display: true}
+    ],
+    throwOnError : false
+  });
+});
+</script>
+{{- end -}}
+
+{{- if .Site.Params.highlightInClient -}}
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('pre code').forEach(el => {
+      el.parentElement.classList.add('hljs');
+      hljs.highlightBlock(el);
+    });
+  });
+</script>
+{{- end -}}
+
+<!-- Custom js -->
+{{ range .Site.Params.customJS -}}
+  <script src="{{ "/js/" | relURL }}{{ . }}"></script>
+{{ end }}
