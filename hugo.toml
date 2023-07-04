@@ -1,4 +1,4 @@
-baseURL = "https:unklebonehead.github.io/unklebonehead.github.io/"
+baseURL = "https:unklebonehead.xyz/"
 languageCode = "en"
 DefaultContentLanguage = "en" # en / zh-cn / zh-tw / ... (This field determines which i18n file to use)
 title = "Unkle Bonehead"
