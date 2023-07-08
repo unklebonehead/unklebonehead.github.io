@@ -8,7 +8,7 @@ tags: [LiveStream, CastGarden]
 categories: [tutorial]
 summary: "How to live stream to CastGarden"
 description: "How to live stream to CastGarden"
-coverImage: "/covers/how-to-stream-cg.jpg"
+coverImage: "/covers/ub.jpg"
 enclosureURL: "https://cast.garden/download/streaming-playlists/hls/videos/5fee8d10-b9f4-4916-9ee6-bc520d251683-1080-fragmented.mp4"
 enclosureType: "video"
 enclosureLength: "6:48"
@@ -21,7 +21,7 @@ hiddenFromHomePage: false
 hiddenFromRSS: false
 katex: false
 ---
-
+A quick tutorial on how to live stream to CastGarden.
 <!--more-->
 [Watch on CastGarden](https://cast.garden/w/cR5bUYFFAs5Km1Hiy5vTYx)
 A quick tutorial on how to live stream to CastGarden.

@@ -5,10 +5,10 @@ lastmod: 2023-07-04T13:16:58-04:00
 draft: false
 keywords: [music]
 tags: [music, rock, covers]
-categories: [music, episodes]
+categories: [ublive]
 summary: "I ran across a really awesome guitar player that uses Linux. Then I wondered about what if bands had written other songs."
 description: "I ran across a really awesome guitar player that uses Linux. Then I wondered about what if bands had written other songs."
-coverImage: "/covers/web3.jpeg"
+coverImage: "/covers/ub.jpg"
 enclosureURL: "https://cast.garden/download/streaming-playlists/hls/videos/7583f094-00fa-42d6-8db6-feb6137a28cd-1080-fragmented.mp4"
 enclosureType: "video"
 enclosureLength: "42:33"
@@ -21,7 +21,7 @@ hiddenFromHomePage: false
 hiddenFromRSS: false
 katex: false
 ---
-
+I ran across a really awesome guitar player that uses Linux. I got to thinking of some artists that are some what, if not completely unknown to a large portion of the world. And I couldnt let a another second go by without bringing them to you.
 <!--more-->
 I got to thinking of some artists that are some what, if not completely unknown to a large portion of the world. And I couldnt let a another second go by without bringing them to you.
 First up is Raul Dipeas. One hell of a guitar player and a fellow Linux user. I play 3 of his songs.

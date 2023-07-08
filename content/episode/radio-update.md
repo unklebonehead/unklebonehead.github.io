@@ -5,10 +5,10 @@ lastmod: 2023-07-04T13:16:34-04:00
 draft: false
 keywords: [music, rap, metal]
 tags: [music, Hive]
-categories: [news, music]
+categories: [ublive]
 summary: "I blow off some and talk about some Hive news."
 description: "I blow off some steam and talk about Hive, radio stations and music."
-coverImage: "/covers/radio-update.png"
+coverImage: "/covers/ub.jpg"
 enclosureURL: "https://cast.garden/download/streaming-playlists/hls/videos/da2c0f2d-4f31-4069-b4f7-b6d18d4f4ff3-1080-fragmented.mp4"
 enclosureType: "video"
 enclosureLength: "40:14"
@@ -21,7 +21,7 @@ hiddenFromHomePage: false
 hiddenFromRSS: false
 katex: false
 ---
-
+I blow off some steam and talk about Hive, radio stations and music.
 <!--more-->
 [Watch on CastGarden](https://cast.garden/videos/embed/da2c0f2d-4f31-4069-b4f7-b6d18d4f4ff3)
 

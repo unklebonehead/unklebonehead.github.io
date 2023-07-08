@@ -1,4 +1,4 @@
-baseURL = "https:unklebonehead.xyz/"
+baseURL = "/"
 languageCode = "en"
 DefaultContentLanguage = "en" # en / zh-cn / zh-tw / ... (This field determines which i18n file to use)
 title = "Unkle Bonehead"
@@ -27,7 +27,7 @@ copyright = ""            # Default value is author.name
   identifier = "episodes"
   url = "/episode/"
 [[menu.main]]
-  name = "Posts"
+  name = "Blog"
   weight = 20
   identifier = "posts"
   url = "/posts/"  
@@ -37,11 +37,26 @@ copyright = ""            # Default value is author.name
   identifier = "live"
   url = "/live-stream/"
 [[menu.main]]
+  name = "Subscribe"
+  weight = 30
+  identifier = "subscribe"
+  url = "/subscribe/"
+[[menu.main]]
   name = "Privacy Policy"
   weight = 40
   identifier = "privacy-policy"
   url = "/privacy-policy"
-
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "Categories"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"
+  
 [params]
   # Used to check if the theme is configured correctly
   version = "v1.1.0"

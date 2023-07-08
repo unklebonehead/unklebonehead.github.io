@@ -8,7 +8,7 @@ tags: [CastGarden, upload]
 categories: [tutorial]
 summary: "How to upload audio/video to CastGarden."
 description: "How to upload audio/video to CastGarden."
-coverImage: "/covers/upload-to-cg.jpg"
+coverImage: "/covers/ub.jpg"
 enclosureURL: "https://cast.garden/download/streaming-playlists/hls/videos/476aa73d-0c8a-4132-a5a8-de822cdf688e-1080-fragmented.mp4"
 enclosureType: "video"
 enclosureLength: "9:20"
@@ -21,7 +21,7 @@ hiddenFromHomePage: false
 hiddenFromRSS: false
 katex: false
 ---
-
+A quick and simple tutorial on how to upload audio/video to CastGarden. Plus I throw in a few simple tips to simplify and streamline the work flow.
 <!--more-->
 [Watch on CastGarden](https://cast.garden/videos/embed/476aa73d-0c8a-4132-a5a8-de822cdf688e)
 

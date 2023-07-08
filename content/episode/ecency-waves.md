@@ -5,10 +5,10 @@ lastmod: 2023-07-04T13:09:18-04:00
 draft: false
 keywords: [Ecency, Hive, SocialMedia]
 tags: [Hive, Ecency]
-categories: [news, episodes]
+categories: [ublive]
 summary: "The Hive social media front end Ecency released the best update ever!"
 description: "The Hive social media front end Ecency released the best update I've seen in the almost 3 yrs I've been on it. This is outstanding and I check it in this video."
-coverImage: "/covers/052523-ECENCY.jpg"
+coverImage: "/covers/ub.jpg"
 enclosureURL: "https://cast.garden/download/streaming-playlists/hls/videos/9a13b6c8-530d-442e-bac7-b5b3ad501051-1080-fragmented.mp4"
 enclosureType: "video"
 enclosureLength: "13:12"
@@ -21,7 +21,7 @@ hiddenFromHomePage: false
 hiddenFromRSS: false
 katex: false
 ---
-
+The Hive social media front end Ecency released the best update I've seen in the almost 3 yrs I've been on it. This is outstanding and I check it in this video.
 <!--more-->
 [Watch on CastGarden](https://cast.garden/videos/embed/9a13b6c8-530d-442e-bac7-b5b3ad501051)
 

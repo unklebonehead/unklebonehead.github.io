@@ -5,10 +5,10 @@ lastmod: 2023-07-04T13:17:21-04:00
 draft: false
 keywords: [music, radio, live]
 tags: [live, Hive, Aureal, Dbuzz]
-categories: [news, music]
+categories: [ublive]
 summary: "Windows is against a religion? Music, Hive News & more!"
 description: "Windows is against a religion? Music, Hive News & more!"
-coverImage: "/covers/32623.jpg"
+coverImage: "/covers/ub.jpg"
 enclosureURL: "https://cast.garden/download/streaming-playlists/hls/videos/172c0567-c03d-4c4d-9cea-44fdacefb379-1080-fragmented.mp4"
 enclosureType: "video"
 enclosureLength: "46:52"
@@ -21,7 +21,7 @@ hiddenFromHomePage: false
 hiddenFromRSS: false
 katex: false
 ---
-
+Windows is against a religion? Music, Hive News & more!
 <!--more-->
 [Watch on CastGarden](https://cast.garden/videos/embed/172c0567-c03d-4c4d-9cea-44fdacefb379)
 
