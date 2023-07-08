@@ -8,7 +8,7 @@ description: "Where you can subscribe to all my podcasts"
 - [Rumble](https://rumble.com/user/UnkleBonehead)
 
 ### Defluenced Podcast
-A podcast hosted by my self & author [Allen Taylor]() where we explore & explain what #Web3 is and the technology behind it. Why it's needed and what to expect from it. 
+A podcast hosted by my self & author [Allen Taylor](https://authorallentaylor.com/) where we explore & explain what #Web3 is and the technology behind it. Why it's needed and what to expect from it. 
 Thumbnail contains a free grunge overlay from https://www.photoshopsupply.com
 - [Spotify](https://open.spotify.com/show/1CjlqFLbVJ5tXax1phf7BQ)
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/defluenced/id1642713445)
