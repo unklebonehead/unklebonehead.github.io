@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sec on Unkle Bonehead</title>
+    <link>/tags/sec/</link>
+    <description>Recent content in sec on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>unklebonehead@murena.io (Unkle Bonehead)</managingEditor>
+    <webMaster>unklebonehead@murena.io (Unkle Bonehead)</webMaster>
+    <lastBuildDate>Tue, 18 Jul 2023 18:47:22 -0400</lastBuildDate><atom:link href="/tags/sec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEC vs XRP: Judgement S2ep21</title>
+      <link>/episode/s2ep21/</link>
+      <pubDate>Tue, 18 Jul 2023 18:47:22 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/s2ep21/</guid>
+      <description>&lt;p&gt;Today Allen &amp;amp; Unkle B talk about the recent judgement handed down on the SEC vs XRP case&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The War on Crypto S2Ep18</title>
+      <link>/episode/s2ep18/</link>
+      <pubDate>Sat, 08 Jul 2023 14:01:43 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/s2ep18/</guid>
+      <description>&lt;p&gt;Allen &amp;amp; Unkle Bonehead discuss the recent lawsuits filed by the SEC against Binance and Coinbase.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

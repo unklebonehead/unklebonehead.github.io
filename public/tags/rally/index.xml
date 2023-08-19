@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rally on Unkle Bonehead</title>
+    <link>/tags/rally/</link>
+    <description>Recent content in rally on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>unklebonehead@murena.io (Unkle Bonehead)</managingEditor>
+    <webMaster>unklebonehead@murena.io (Unkle Bonehead)</webMaster>
+    <lastBuildDate>Sat, 08 Jul 2023 12:00:06 -0400</lastBuildDate><atom:link href="/tags/rally/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Deaths of Coil &amp; Rally S2Ep05</title>
+      <link>/episode/s2ep05/</link>
+      <pubDate>Sat, 08 Jul 2023 12:00:06 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/s2ep05/</guid>
+      <description>&lt;p&gt;Coil has announced that they are shutting down. Interledger will still be going and we hope that someone will step in and take over where Coil left off.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

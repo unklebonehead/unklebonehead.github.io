@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>upload on Unkle Bonehead</title>
+    <link>/tags/upload/</link>
+    <description>Recent content in upload on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>unklebonehead@murena.io (Unkle Bonehead)</managingEditor>
+    <webMaster>unklebonehead@murena.io (Unkle Bonehead)</webMaster>
+    <lastBuildDate>Tue, 04 Jul 2023 13:16:15 -0400</lastBuildDate><atom:link href="/tags/upload/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Upload Audio/Video to CastGarden</title>
+      <link>/episode/upload-to-cg/</link>
+      <pubDate>Tue, 04 Jul 2023 13:16:15 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/upload-to-cg/</guid>
+      <description>&lt;p&gt;A quick and simple tutorial on how to upload audio/video to CastGarden. Plus I throw in a few simple tips to simplify and streamline the work flow.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

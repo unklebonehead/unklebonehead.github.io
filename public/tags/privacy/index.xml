@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on Unkle Bonehead</title>
+    <link>/tags/privacy/</link>
+    <description>Recent content in privacy on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>unklebonehead@murena.io (Unkle Bonehead)</managingEditor>
+    <webMaster>unklebonehead@murena.io (Unkle Bonehead)</webMaster>
+    <lastBuildDate>Wed, 05 Jul 2023 07:25:13 -0400</lastBuildDate><atom:link href="/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secure your keys S1Ep11</title>
+      <link>/episode/s1ep11/</link>
+      <pubDate>Wed, 05 Jul 2023 07:25:13 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/s1ep11/</guid>
+      <description>&lt;p&gt;We had an issue where I (Unkle Bonehead) lost the keys for the Defluenced Hive account.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What is Decentralization &amp; Why is it needed? S1Ep03</title>
+      <link>/episode/s1ep03/</link>
+      <pubDate>Wed, 05 Jul 2023 07:22:16 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/s1ep03/</guid>
+      <description>&lt;p&gt;In this episode Allan and I talk about what decentralization means to us. What we think it should be and how it empowers the individual.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

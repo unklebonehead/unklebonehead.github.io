@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lokinet on Unkle Bonehead</title>
+    <link>/tags/lokinet/</link>
+    <description>Recent content in lokinet on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>unklebonehead@murena.io (Unkle Bonehead)</managingEditor>
+    <webMaster>unklebonehead@murena.io (Unkle Bonehead)</webMaster>
+    <lastBuildDate>Tue, 04 Jul 2023 13:15:21 -0400</lastBuildDate><atom:link href="/tags/lokinet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CastGarden is on Lokinet</title>
+      <link>/episode/cg-lokinet/</link>
+      <pubDate>Tue, 04 Jul 2023 13:15:21 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/cg-lokinet/</guid>
+      <description>&lt;p&gt;CastGarden is now on Lokinet!
+Lokinet is similar to Tor only it works at the network layer and the result is you can use any browser and many desktop apps anonymously.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fediverse on Unkle Bonehead</title>
+    <link>/tags/fediverse/</link>
+    <description>Recent content in fediverse on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>unklebonehead@murena.io (Unkle Bonehead)</managingEditor>
+    <webMaster>unklebonehead@murena.io (Unkle Bonehead)</webMaster>
+    <lastBuildDate>Sat, 08 Jul 2023 12:38:10 -0400</lastBuildDate><atom:link href="/tags/fediverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is the form of a perfect internet? S2Ep13</title>
+      <link>/episode/s2ep13/</link>
+      <pubDate>Sat, 08 Jul 2023 12:38:10 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/s2ep13/</guid>
+      <description>&lt;p&gt;Today&amp;rsquo;s episode was spurred, as usual, by the Cryptocracy newsletter. One of the stories Allen reported on was about what is the perfect internet? So that&amp;rsquo;s what Allen &amp;amp; I riffed about.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Twitter Migration: Rise of the Fediverse S1Ep08</title>
+      <link>/episode/s1ep08/</link>
+      <pubDate>Wed, 05 Jul 2023 07:24:16 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/s1ep08/</guid>
+      <description>&lt;p&gt;In case you&amp;rsquo;ve been living under a rock. Elon Musk completed the deal and now owns Twitter.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

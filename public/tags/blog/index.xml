@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Unkle Bonehead</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in blog on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>unklebonehead@murena.io (Unkle Bonehead)</managingEditor>
+    <webMaster>unklebonehead@murena.io (Unkle Bonehead)</webMaster>
+    <lastBuildDate>Tue, 04 Jul 2023 15:50:55 -0400</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Site</title>
+      <link>/posts/my-new-site/</link>
+      <pubDate>Tue, 04 Jul 2023 15:50:55 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/posts/my-new-site/</guid>
+      <description>&lt;p&gt;So you may notice a change to the site here. It&amp;rsquo;s not just a blob of links to my social media and podcasts. I&amp;rsquo;m turning it into my own little corner of the web.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

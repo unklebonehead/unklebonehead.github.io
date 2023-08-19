@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>distro on Unkle Bonehead</title>
+    <link>/tags/distro/</link>
+    <description>Recent content in distro on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>unklebonehead@murena.io (Unkle Bonehead)</managingEditor>
+    <webMaster>unklebonehead@murena.io (Unkle Bonehead)</webMaster>
+    <lastBuildDate>Tue, 04 Jul 2023 15:01:47 -0400</lastBuildDate><atom:link href="/tags/distro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I use Ubuntu, btw.</title>
+      <link>/episode/use-ubuntu/</link>
+      <pubDate>Tue, 04 Jul 2023 15:01:47 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/use-ubuntu/</guid>
+      <description>&lt;p&gt;I gave Ubuntu 23.04 a good try and I like it.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

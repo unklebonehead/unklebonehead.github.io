@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Unkle Bonehead</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>unklebonehead@murena.io (Unkle Bonehead)</managingEditor>
+    <webMaster>unklebonehead@murena.io (Unkle Bonehead)</webMaster>
+    <lastBuildDate>Tue, 04 Jul 2023 16:38:11 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free Computer</title>
+      <link>/posts/free-computer/</link>
+      <pubDate>Tue, 04 Jul 2023 16:38:11 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/posts/free-computer/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;This was originally posted to Ecency in May of 2023 by me.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For my job I work 90% remote which is usually at home. But I am required to physically go to the office at least twice a month on Fridays. Which is nice since 90% of my job involves talking on the phone and resolving problems in a tech/safety/legal type of situation. When I am required to be in the office is when I do things that I have to be done in that environment. Meeting &amp;amp; training with drivers &amp;amp; students, mountains of paperwork filing, accessing the local NAS, etc. You get the idea.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My New Site</title>
+      <link>/posts/my-new-site/</link>
+      <pubDate>Tue, 04 Jul 2023 15:50:55 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/posts/my-new-site/</guid>
+      <description>&lt;p&gt;So you may notice a change to the site here. It&amp;rsquo;s not just a blob of links to my social media and podcasts. I&amp;rsquo;m turning it into my own little corner of the web.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

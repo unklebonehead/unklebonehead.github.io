@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aureal on Unkle Bonehead</title>
+    <link>/tags/aureal/</link>
+    <description>Recent content in aureal on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>unklebonehead@murena.io (Unkle Bonehead)</managingEditor>
+    <webMaster>unklebonehead@murena.io (Unkle Bonehead)</webMaster>
+    <lastBuildDate>Sat, 08 Jul 2023 11:30:59 -0400</lastBuildDate><atom:link href="/tags/aureal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aureal&#39;s Big Announcement S2Ep01</title>
+      <link>/episode/s2ep01/</link>
+      <pubDate>Sat, 08 Jul 2023 11:30:59 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/s2ep01/</guid>
+      <description>&lt;p&gt;The podcast app &lt;a href=&#34;https://aureal.one&#34;&gt;Aureal&lt;/a&gt; has announced a partnership with Unstoppable Domains in their discord server.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ub Live 3/26/23</title>
+      <link>/episode/ublive-32623/</link>
+      <pubDate>Tue, 04 Jul 2023 13:17:21 -0400</pubDate>
+      <author>unklebonehead@murena.io (Unkle Bonehead)</author>
+      <guid>/episode/ublive-32623/</guid>
+      <description>&lt;p&gt;Windows is against a religion? Music, Hive News &amp;amp; more!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
