@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foss on Unkle Bonehead</title>
+    <link>https://unklebonehead.xyz/tags/foss/</link>
+    <description>Recent content in Foss on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 08:53:02 -0400</lastBuildDate><atom:link href="https://unklebonehead.xyz/tags/foss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu Sway 2304</title>
+      <link>https://unklebonehead.xyz/posts/ubuntu-sway-2304/</link>
+      <pubDate>Sun, 17 Mar 2024 08:53:02 -0400</pubDate>
+      
+      <guid>https://unklebonehead.xyz/posts/ubuntu-sway-2304/</guid>
+      <description>&lt;iframe title=&#34;Ubuntu Sway Remix 23.04 My New Daily Driver?&#34; width=&#34;100%&#34; height=&#34;450&#34; src=&#34;https://cast.garden/videos/embed/1beb6ca1-0b28-4186-86c1-f2fd3758d5e6&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; sandbox=&#34;allow-same-origin allow-scripts allow-popups&#34;&gt;&lt;/iframe&gt;
+***Originally published June 2023***
+I heard about this distro on The Linux Cast&#39;s YouTube channel and tried it out. I am in love with this! I have it installed on 2 machines already and been daily driving it both at play &amp; the day job.
+&lt;p&gt;The only problem I&amp;rsquo;ve ran into is a weird bug with PCManFM&amp;rsquo;s right click menu opens on the monitor to the right. I cant figure that one out.
+But this implementation of Sway is very easy to configure and make it your own. Flatpak is not enabled by default but the best thing is neither is snap.
+It is obviously running Wayland but I&amp;rsquo;ve experienced no issues as of yet.&lt;/p&gt;
+&lt;p&gt;As long as they continue on the trajectory they are on this just might be the distro that kills Pop!_OS for me. I love it.&lt;/p&gt;
+&lt;p&gt;Links:
+Ubuntu Sway - &lt;a href=&#34;https://ubuntusway.com/&#34;&gt;https://ubuntusway.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My repo for themes &amp;amp; neofetch configs - &lt;a href=&#34;https://github.com/unklebonehead/ubuntusway-yaru-colors&#34;&gt;https://github.com/unklebonehead/ubuntusway-yaru-colors&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Matt&amp;rsquo;s Review - &lt;a href=&#34;https://youtu.be/UZh7TREkcSk&#34;&gt;https://youtu.be/UZh7TREkcSk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;** Side note **
+I was little harsh on Matt&amp;rsquo;s review &amp;amp; how he and Distrotube do distro reviews. I wasnt trying to hate on them. Just wanted to point out how they approach a review differently of window managers and desktop environments when they are supposedly reviewing the distro it&amp;rsquo;s self. I honestly dont think they realize they do it.
+I think Matt can see this because he mentions in his review about searching for alternative apps when switching distros &amp;amp; operating systems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jellyfin</title>
+      <link>https://unklebonehead.xyz/posts/jellyfin/</link>
+      <pubDate>Sun, 17 Mar 2024 08:47:26 -0400</pubDate>
+      
+      <guid>https://unklebonehead.xyz/posts/jellyfin/</guid>
+      <description>&lt;iframe title=&#34;Jellyfin, It&#39;s all you need!&#34; width=&#34;100%&#34; height=&#34;450&#34; src=&#34;https://cast.garden/videos/embed/2e59016f-712a-4d3f-bf6d-c1e6eea547a9&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; sandbox=&#34;allow-same-origin allow-scripts allow-popups&#34;&gt;&lt;/iframe&gt;
+***Originally published December 2023***
+Jellyfin is an open source streaming media server. It can be hosted on a VPS or in your local network on an old laptop or even a Raspberry Pi. The specs required to run it are pretty low so it can run on just about anything.
+&lt;p&gt;I have it on my home network on an old desktop with an i7 and 20gb of ram. It&amp;rsquo;s running CasaOS on top of Ubuntu Server 22.04.&lt;/p&gt;
+&lt;p&gt;Install is super simple and even easier if you are using something like CasaOS, Umbrel or Yunohost. They all have one click installers.&lt;/p&gt;
+&lt;p&gt;With Jellyfin you can manage and access your movies, tv shows, music, books, photos and even live tv/dvr from any device. Through any web browser and there are also apps for the mobile platforms.&lt;/p&gt;
+&lt;p&gt;In the video I go over what it looks like and how I have mine set up and talk about the quaility of the video stream.&lt;/p&gt;
+&lt;p&gt;Find out more, try the demo and download Jellyfin at their website &lt;a href=&#34;https://jellyfin.org&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Online Freedom Starts With Your Device</title>
+      <link>https://unklebonehead.xyz/posts/online-freedom-starts-with-your-device/</link>
+      <pubDate>Sat, 16 Mar 2024 20:25:51 -0400</pubDate>
+      
+      <guid>https://unklebonehead.xyz/posts/online-freedom-starts-with-your-device/</guid>
+      <description>&lt;script&gt;!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src=&#34;https://rumble.com/embedJS/u17ojy5&#34;+(arguments[1].video?&#39;.&#39;+arguments[1].video:&#39;&#39;)+&#34;/?url=&#34;+encodeURIComponent(location.href)+&#34;&amp;args=&#34;+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, &#34;script&#34;, &#34;Rumble&#34;);&lt;/script&gt;
+&lt;div id=&#34;rumble_v46i1cl&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Rumble(&#34;play&#34;, {&#34;video&#34;:&#34;v46i1cl&#34;,&#34;div&#34;:&#34;rumble_v46i1cl&#34;});&lt;/script&gt;
+&lt;p&gt;If you are interested in Freedom in the online world it starts with the device you use to access the internet and the apps you use on it.&lt;/p&gt;
+&lt;h4 id=&#34;my-links--&#34;&gt;My Links - &lt;a href=&#34;#my-links--&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://defluence.me&#34;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/defluenced&#34;&gt;X (Twitter)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://d.buzz/@unklebonehead&#34;&gt;DBuzz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rumble.com/c/c-1773197&#34;&gt;Rumble&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/@unklebonehead&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cast.garden/c/defluenced/videos&#34;&gt;CastGarden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.twitch.tv/unklebonehead&#34;&gt;Twitch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
