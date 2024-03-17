@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on Unkle Bonehead</title>
+    <link>https://unklebonehead.xyz/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on Unkle Bonehead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jul 2023 15:01:47 -0400</lastBuildDate><atom:link href="https://unklebonehead.xyz/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I use Ubuntu, btw.</title>
+      <link>https://unklebonehead.xyz/posts/use-ubuntu/</link>
+      <pubDate>Tue, 04 Jul 2023 15:01:47 -0400</pubDate>
+      
+      <guid>https://unklebonehead.xyz/posts/use-ubuntu/</guid>
+      <description>&lt;center&gt;&lt;iframe title=&#34;I use Ubuntu, BTW.&#34; width=&#34;100%&#34; height=&#34;450&#34; src=&#34;https://cast.garden/videos/embed/0e9cff5f-5d6e-4dd3-987a-208c006a7c2f&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; sandbox=&#34;allow-same-origin allow-scripts allow-popups&#34;&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;p&gt;I gave Ubuntu 23.04 a good try and I like it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cast.garden/videos/embed/0e9cff5f-5d6e-4dd3-987a-208c006a7c2f&#34;&gt;Watch on CastGarden&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I gave Ubuntu 23.04 a good try and I like it. IMO it&amp;rsquo;s the best one so far. You dont have to use the snaps if you dont want. Just install Flatpak and boom. Get your work done.
+The new flutter installer worked like a charm on my machine except for not adding a swap partition. Two weeks solid as a daily driver for work and play and no issues after adding the swap.
+Check out &lt;a href=&#34;https://ubuntu.com/&#34;&gt;Ubuntu here.&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
