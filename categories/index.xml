@@ -2,46 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Unkle Bonehead</title>
-    <link>https://unklebonehead.xyz/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Unkle Bonehead</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2024 10:56:03 -0400</lastBuildDate><atom:link href="https://unklebonehead.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 17 Mar 2024 10:56:03 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3FatGuys</title>
-      <link>https://unklebonehead.xyz/categories/3fatguys/</link>
+      <link>//localhost:1313/categories/3fatguys/</link>
       <pubDate>Sun, 17 Mar 2024 10:56:03 -0400</pubDate>
-      
-      <guid>https://unklebonehead.xyz/categories/3fatguys/</guid>
+      <guid>//localhost:1313/categories/3fatguys/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>UBLive</title>
-      <link>https://unklebonehead.xyz/categories/ublive/</link>
+      <link>//localhost:1313/categories/ublive/</link>
       <pubDate>Sun, 17 Mar 2024 10:45:16 -0400</pubDate>
-      
-      <guid>https://unklebonehead.xyz/categories/ublive/</guid>
+      <guid>//localhost:1313/categories/ublive/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>LoudandProud</title>
-      <link>https://unklebonehead.xyz/categories/loudandproud/</link>
+      <link>//localhost:1313/categories/loudandproud/</link>
       <pubDate>Sun, 17 Mar 2024 10:29:23 -0400</pubDate>
-      
-      <guid>https://unklebonehead.xyz/categories/loudandproud/</guid>
+      <guid>//localhost:1313/categories/loudandproud/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Blog</title>
-      <link>https://unklebonehead.xyz/categories/blog/</link>
+      <link>//localhost:1313/categories/blog/</link>
       <pubDate>Sat, 16 Mar 2024 20:25:22 -0400</pubDate>
-      
-      <guid>https://unklebonehead.xyz/categories/blog/</guid>
+      <guid>//localhost:1313/categories/blog/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
