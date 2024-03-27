@@ -1,0 +1,95 @@
+/* https://www.flagcolorcodes.com/lesbian-pride */
+
+body {
+	background-color: #000000;
+	margin: auto;
+	margin-top:40px;
+	font-family: monospace !important;
+	color: #FFFFFF;
+	max-width:900px;
+	padding:0 10px;
+}
+
+#head-navbar {
+  width: 100%;
+  white-space: normal;
+  display: inline-block;
+  overflow: hidden;
+}
+.nav>li {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+h1, h3 {
+	color: #48b9c7;
+	text-align: center;
+}
+
+h2, h4 {
+	color: #D162A4;
+	text-align: center;
+}
+
+a, a:visited {
+	color: #B55690;
+	text-decoration: none;
+}
+
+a.setup {
+	color: inherit;
+}
+
+pre, code, b, strong {
+	color: #FFBF69;
+	overflow: auto;
+}
+
+i, em, blockquote {
+	color: #B3ECFF;
+}
+
+hr {
+	border: 0;
+	border-top: 5px dashed;
+	color: #A30262;
+}
+
+hr.smaller {
+	border: 0;
+	border-top: 2px dashed;
+	color: #D52D00;
+}
+
+div {
+	border: 1px solid white;
+	padding: 10px;
+}
+
+div.card {
+	word-wrap: break-word;
+}
+
+img.index {
+	float: left;
+	padding: 15px;
+}
+
+img.index, img.setup {
+	width: 100px;
+	max-height: 100px;
+}
+
+img.banner {
+	max-width: 100%;
+	height: auto;
+}
+
+table {
+	width: 100%;
+	padding: 3px;
+}
+
+td, span {
+	text-align: center;
+}
